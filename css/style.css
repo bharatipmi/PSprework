@@ -1,0 +1,76 @@
+p{
+    font-size: 15px;
+}
+li{
+font-style: calibri;
+}
+a{
+    color: purple;
+}
+.part1{
+    color :green;
+font-style: oblique;
+text-decoration: solid;
+text-align: center;
+margin-top: auto;    
+background-color: aliceblue;  
+height: 50%;
+width: 80%;
+   
+}
+.part2
+{
+color :green;
+font-style: oblique;
+text-decoration: solid;
+
+
+background-color: aliceblue;  
+height: 70%;
+width: 80%;
+  
+}
+body{
+    background-color:white;
+}
+
+.iframe
+{
+width:"560";
+height:"315";
+
+}
+.nametext
+{
+font-size: 2rem;
+text-decoration: underline;
+text-align: center;
+color:brown;
+padding: 20px;
+margin:20px;
+}
+.text{
+text-align: center;
+color: blueviolet;
+padding: -40px;
+margin-top: -30px;
+}
+nav
+{
+
+
+text-align: center;
+
+position: relative;
+
+
+}
+.picture
+{
+border-radius: 20px;
+box-shadow: 10px;
+position:static;
+width:400px ;
+height:300px;
+
+}
